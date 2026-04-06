@@ -8,4 +8,4 @@ I’m a software development student, always learning and improving through stud
 ---
 
 ### 🧰 Strong Basics & Growing
-[![My Skills](https://skillicons.dev/icons?i=js,c,java,python,discordjs,node,react,mysql,html,css,ai,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,c,java,python,discordjs,nodejs,react,mysql,html,css,ai,ps)](https://skillicons.dev)
