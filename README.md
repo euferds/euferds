@@ -1,6 +1,6 @@
 #  Pedro Fernandes
 
-**`Software Development Student`**
+**`Software Engineer`**
 
 I’m a software development student, always learning and improving through study and hands-on practice. Creativity guides how I approach problems, helping me develop clean and effective solutions. I’ve been working on both solo and collaborative projects, sharpening my skills to step into the job market and expand my real-world experience.
 
