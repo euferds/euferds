@@ -4,7 +4,7 @@
 
 🎓 Information Systems student at the Federal Institute of Bahia (IFBA)
 
-👨‍💻 Entry-level developer with hands-on programming experience since 2021.
+👨‍💻 Early-career developer with hands-on programming experience since 2021.
 
 🔠 Advanced English (C1)
 
