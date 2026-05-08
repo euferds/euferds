@@ -11,13 +11,8 @@ I'm a software development student constantly improving through study and hands-
 🔠 Advanced English (C1)
 
 ---
-
 ### 🚀 Main Projects
 **` `**
 
-### 🧰 Strong Basics & Growing
+--- 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,python,java,react,discordjs,mysql,html,css)](https://skillicons.dev)
-
-
-
-
