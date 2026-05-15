@@ -15,4 +15,4 @@
 **` `**
 
 --- 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,python,react,discordjs,mysql,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,py,fastapi,django,js,ts,nestjs,nextjs,express,discordjs,html,css,mysql,postgres,prisma,redis,docker,githubactions,aws&perline=10)](https://skillicons.dev)
