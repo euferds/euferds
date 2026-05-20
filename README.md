@@ -8,7 +8,7 @@
 
 🔠 Advanced English (C1)
 
-🧠 Worked on personal projects involving software architecture, applied AI and scalable systems, using creativity to build clean and effective solutions.
+🎯 Working on personal projects involving software architecture, applied AI and scalable systems, using creativity to build clean and effective solutions.
 
 ---
 ### 🚀 Main Projects
