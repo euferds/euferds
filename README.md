@@ -13,7 +13,7 @@
 ---
 ### 🚀 Main Projects
 
-- 🐝 **[Necta]([https://github.com/usenecta](https://github.com/usenecta/necta))** — AI-powered browser extension that transforms any webpage into an intelligent study document, helping users generate structured learning materials directly from web content.
+- 🐝 **[Necta](https://github.com/usenecta](https://github.com/usenecta/necta)** — AI-powered browser extension that transforms any webpage into an intelligent study document, helping users generate structured learning materials directly from web content.
 
 ---
 ### 🛠️ Skills
